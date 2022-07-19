@@ -1,9 +1,9 @@
 # StarbucksApp
 
-#Objectives
+# Objectives
 Made this App to study Tabbar, Tableview and Tabman library
 
-#Used Skills
+# Used Skills
 - TabmanViewController (Tabman, Pageboy)
 - TabbarViewController
 - Scrollview(Vertical + Horizontal)
